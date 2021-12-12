@@ -20,4 +20,8 @@ public class CompletableFuture1 {
 
     }
 
+    public String process() {
+        return "woonet";
+    }
+
 }
